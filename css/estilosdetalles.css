@@ -1,0 +1,36 @@
+#detalle-evento {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+nav ul, nav ul li, nav ul li a {
+    list-style: none;
+    padding: 0;
+    display: inline;
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+header, footer {
+    background: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+#detalle-evento p {
+    font-size: 18px;
+    margin: 10px 0;
+}
